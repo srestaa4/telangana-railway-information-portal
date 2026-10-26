@@ -1,0 +1,6 @@
+{
+  "name": "Telangana Railway Information Portal",
+  "description": "Your guide to railway services, station facilities, train schedules, and passenger assistance in Telangana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
